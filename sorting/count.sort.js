@@ -21,4 +21,6 @@ function sort(arr) {
     return result;
 }
 
+module.exports = sort;
+
 console.log(sort(array));
